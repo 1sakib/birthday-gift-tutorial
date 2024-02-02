@@ -1,4 +1,4 @@
-# co62848058fb784dcfc9d02ab
+# tutorial for birthday start
 
 Quick start:
 
@@ -6,6 +6,7 @@ Quick start:
 $ npm install
 $ npm start
 ````
+Sakib Note : I learned a bit about HTML and CSS from Scrimba.
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
